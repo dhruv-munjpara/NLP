@@ -1,0 +1,13 @@
+tweet_id,author,tweet_text,match_teams,sentiment
+1001,@cricket_fan_99,"What an unbelievable finish by MS Dhoni in the final over! Absolute legend! #CSK #IPL",CSK vs MI,Positive
+1002,@ipl_guru,"Virat Kohli's cover drive today was pure poetry in motion. King Kohli delivers again! #RCB",RCB vs KKR,Positive
+1003,@mumbai_paltan,"Terrible bowling in the death overs by MI bowlers, conceded 45 runs in last 2 overs.",MI vs DC,Negative
+1004,@sports_daily,"Gujarat Titans qualify for the playoffs with a commanding 7-wicket victory! #AavaDe",GT vs RR,Positive
+1005,@tactical_view,"Kolkata's batting collapse against spin bowling today was painful to watch.",KKR vs SRH,Negative
+1006,@delhi_capitals_fan,"Rishabh Pant's one-handed six over mid-wicket was shot of the tournament!",DC vs PBKS,Positive
+1007,@cricket_analyst,"Slow over rate and sloppy fielding cost Rajasthan Royals the entire match.",RR vs LSG,Negative
+1008,@hyderabad_orange,"Travis Head and Abhishek Sharma demolition job! 125 runs in powerplay! History made! #SRH",SRH vs DC,Positive
+1009,@kl_rahul_club,"Defensive captaincy in middle overs let the opposition run away with the game.",LSG vs CSK,Negative
+1010,@punjab_kings_live,"Disappointing super over performance. Missed chances cost PBKS once again.",PBKS vs RCB,Negative
+1011,@stump_mic,"Sensational yorker on the final delivery to defend 4 runs! What a thriller! #IPL2026",MI vs CSK,Positive
+1012,@ipl_insider,"Pitch conditions in Ahmedabad are playing slow with significant turn for spinners.",GT vs KKR,Neutral
